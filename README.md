@@ -35,4 +35,3 @@ This is a clone project of a fast-food restaurant website (inspired by Maxway), 
 
 ```bash
 git clone https://github.com/ErgashevAziz-dev/maxway.git
-cd maxway
